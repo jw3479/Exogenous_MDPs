@@ -1,0 +1,12 @@
+name: exog_mdp
+channels:
+  - defaults
+dependencies:
+  - python >= 3.11
+  - jupyter
+  - numpy
+  - ipython
+  - matplotlib
+  - scipy
+  - seaborn
+  - tqdm
